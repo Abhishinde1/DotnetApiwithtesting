@@ -419,3 +419,4 @@ C:\Users\prashant\source\repos\ApiTestProject\Xunitapitest\obj\Debug\net10.0\ref
 C:\Users\prashant\source\repos\ApiTestProject\Xunitapitest\obj\Debug\net10.0\Xunitapitest.pdb
 C:\Users\prashant\source\repos\ApiTestProject\Xunitapitest\obj\Debug\net10.0\Xunitapitest.genruntimeconfig.cache
 C:\Users\prashant\source\repos\ApiTestProject\Xunitapitest\obj\Debug\net10.0\ref\Xunitapitest.dll
+C:\Users\prashant\source\repos\ApiTestProject\Xunitapitest\obj\Debug\net10.0\Xunitapitest.sourcelink.json

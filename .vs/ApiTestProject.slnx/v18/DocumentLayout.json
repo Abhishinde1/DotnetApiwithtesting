@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5566F27D-58D6-50C2-A2E1-ED63D1AE1B30}|ApiTestProject\\ApiTestProject.csproj|c:\\users\\prashant\\source\\repos\\apitestproject\\apitestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5566F27D-58D6-50C2-A2E1-ED63D1AE1B30}|ApiTestProject\\ApiTestProject.csproj|solutionrelative:apitestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5566F27D-58D6-50C2-A2E1-ED63D1AE1B30}|ApiTestProject\\ApiTestProject.csproj|c:\\users\\prashant\\source\\repos\\apitestproject\\apitestproject\\apitestproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5566F27D-58D6-50C2-A2E1-ED63D1AE1B30}|ApiTestProject\\ApiTestProject.csproj|solutionrelative:apitestproject\\apitestproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5566F27D-58D6-50C2-A2E1-ED63D1AE1B30}|ApiTestProject\\ApiTestProject.csproj|c:\\users\\prashant\\source\\repos\\apitestproject\\apitestproject\\jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5566F27D-58D6-50C2-A2E1-ED63D1AE1B30}|ApiTestProject\\ApiTestProject.csproj|solutionrelative:apitestproject\\jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiTestProject.http",
+              "DocumentMoniker": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\ApiTestProject\\ApiTestProject.http",
+              "RelativeDocumentMoniker": "ApiTestProject\\ApiTestProject.http",
+              "ToolTip": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\ApiTestProject\\ApiTestProject.http",
+              "RelativeToolTip": "ApiTestProject\\ApiTestProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-01T07:28:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jenkinsfile",
+              "DocumentMoniker": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\ApiTestProject\\jenkinsfile",
+              "RelativeDocumentMoniker": "ApiTestProject\\jenkinsfile",
+              "ToolTip": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\ApiTestProject\\jenkinsfile",
+              "RelativeToolTip": "ApiTestProject\\jenkinsfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-01T07:27:13.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\ApiTestProject\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTestProject\\Program.cs",
+              "ToolTip": "C:\\Users\\prashant\\source\\repos\\ApiTestProject\\ApiTestProject\\Program.cs",
+              "RelativeToolTip": "ApiTestProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:13:50.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
